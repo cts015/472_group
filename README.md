@@ -1,1 +1,2 @@
 # 472_group
+The project by Josh and Cole involved analyzing bowling data to understand the factors influencing performance. We preprocessed the data, handled missing values and outliers, and identified key correlations between features. Machine learning models, including Random Forest, Gradient Boosting, and Linear Regression, were trained and evaluated using K-Fold cross-validation. The best-performing model was selected based on R-squared scores. Finally, we developed a prototype AI assistant using OpenAI to provide personalized bowling tips.
