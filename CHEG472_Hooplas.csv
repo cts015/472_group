@@ -1,0 +1,41 @@
+Player_Name,Round,Pins_Knocked ,Throw_Angle ,Speed,Total_Score
+Josh,1,9,10,fast,9
+Brandon ,1,6,15,medium,6
+Cole ,1,8,20,fast,8
+Maya ,1,7,15,medium,7
+Josh,2,8,5,fast,17
+Brandon ,2,8,10,fast,14
+Cole ,2,10,10,medium,18
+Maya ,2,9,15,medium,16
+Josh,3,8,10,fast,25
+Brandon ,3,8,10,medium,22
+Cole ,3,8,15,fast,26
+Maya ,3,9,5,fast,25
+Josh,4,9,5,fast,34
+Brandon ,4,7,10,medium,29
+Cole ,4,4,20,medium,30
+Maya ,4,8,10,medium,33
+Josh,5,9,5,fast,43
+Brandon ,5,8,5,fast,37
+Cole ,5,10,10,fast,40
+Maya ,5,4,15,medium,37
+Josh,6,6,5,fast,49
+Brandon ,6,9,10,fast,46
+Cole ,6,7,5,fast,47
+Maya ,6,4,30,fast,41
+Josh,7,9,5,fast,58
+Brandon ,7,9,5,medium,55
+Cole ,7,10,10,fast,57
+Maya ,7,9,10,medium,50
+Josh,8,5,20,fast,63
+Brandon ,8,7,15,medium,62
+Cole ,8,9,10,fast,66
+Maya ,8,10,5,medium,60
+Josh,9,1,25,fast,64
+Brandon ,9,10,5,fast,72
+Cole ,9,9,10,fast,75
+Maya ,9,10,10,fast,70
+Josh,10,17,5,fast,81
+Brandon ,10,13,10,medium,85
+Cole ,10,8,15,medium,83
+Maya ,10,6,25,medium,76
