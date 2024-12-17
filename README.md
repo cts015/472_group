@@ -13,6 +13,7 @@ Files In This Repository:
 CHEG472_Hooplas.csv
 script.py
 
+
 Requirements:
 import pandas as pd
 import numpy as np
