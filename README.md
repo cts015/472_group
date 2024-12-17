@@ -14,3 +14,17 @@ CHEG472_Hooplas.csv
 script.py
 
 Requirements:
+import pandas as pd
+import numpy as np
+import numpy as np
+import joblib
+import seaborn as sns
+import matplotlib
+import matplotlib.pyplot as plt
+import matplotlib as mpl
+import scipy.stats as stats
+import plotly.graph_objects as go
+import plotly.express as px
+import shap
+import pickle
+
