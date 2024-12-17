@@ -1,5 +1,5 @@
 Project: Hooplas Mini Basketball Chatbot
-Author
+Authors:
 Joshua Kearstan and Cole Stevenosky
 
 Semester: Fall 2024
